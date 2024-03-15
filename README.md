@@ -71,6 +71,15 @@ You can click the Preview link to take a look at your changes.
 
 <br><br>
 
+## Estatísticas :
+
+<!---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdouglassouza&layout=donut&theme=dark)
+--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdouglassouza&layout=compact&theme=dark" alt="Top Langs">
+
+
+<br><br>
 ## Contact
 
 <p align="left" style="background:yellow">
