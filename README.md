@@ -19,7 +19,8 @@ You can click the Preview link to take a look at your changes.
 ## Sobre mim :
 
 - 🚀 Dev Full Stack :hourglass_flowing_sand:
-- 🔭 Atualmente trabalhando na Sendas Imob S.A e estudando na Alura 
+- 🔭 Atualmente trabalhando na Sendas Imob S.A e estudando na Alura
+- :computer: Realizando Bootcamp Backend com Java - DIO / Santander Open Academy
 - 💬 Foco em Desenvolvimento de Softwares - Desktop
 - 🌱 Atualmente estou aprendendo... :arrow_heading_down:
 
