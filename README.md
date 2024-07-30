@@ -18,13 +18,36 @@ You can click the Preview link to take a look at your changes.
 
 ## Sobre mim :
 
-- 🚀 Dev Full Stack :hourglass_flowing_sand:
-- 🔭 Atualmente trabalhando na Sendas Imob S.A e estudando na Alura
-- :computer: Realizando Bootcamp Backend com Java - DIO / Santander Open Academy
+- 🚀 Dev Back-End :hourglass_flowing_sand:
+- 🔭 Atualmente trabalhando na Sendas Imob S.A e estudando na Alura e DIO
+- :computer: Realizei recentemente um Bootcamp Backend com Java - DIO com parceria da Santander Open Academy e Santander Faculdades
+-  :computer: Estou realizando um Bootcamp de Java com Spring Boot - DIO em parceria com a Claro
 - 💬 Foco em Desenvolvimento de Softwares - Desktop
-- 🌱 Atualmente estou aprendendo... :arrow_heading_down:
+- 🌱 Atualmente estou aprendendo e/ou já agredo em meu portfólio... :arrow_heading_down:
 
 <br>
+
+## Back-end:
+
+### Linguagens
+<div style="display: inline_block">
+  <img align="center" atl ="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" atl ="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img align="center" atl ="kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+</div>
+
+### Framework e Ferramentas
+<div style="display: inline_block">
+  <img align="center" atl ="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img align="center" atl ="spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img align="center" atl ="mongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img align="center" atl ="postgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img align="center" atl ="mySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img align="center" atl ="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+  <img align="center" atl ="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+</div>
+
+<br><br>
 
 ## Front-end:
 
@@ -40,35 +63,27 @@ You can click the Preview link to take a look at your changes.
   <img align="center" atl ="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
-### Framework e Ferramentas
+<br><br>
+
+## IDEs/Editors
 <div style="display: inline_block">
-  <img align="center" atl ="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" atl ="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)" /> 
+  <img align="center" atl ="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img align="center" atl ="Visual Studio Code]" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img align="center" atl ="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
 </div>
 
-## Back-end:
+<br><br>
 
-### Linguagens
-<div style="display: inline_block">
-  <img align="center" atl ="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img align="center" atl ="kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-</div>
-
-### Framework e Ferramentas
-<div style="display: inline_block">
-  <img align="center" atl ="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img align="center" atl ="spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img align="center" atl ="mongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img align="center" atl ="postgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img align="center" atl ="mySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
-
-### Cloud
+## Cloud e Deploy:
 <div style="display: inline_block">
   <img align="center" atl ="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img align="center" atl ="chat" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)"/>
   <img align="center" atl ="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)"/>
-</div>
+  <img align="center" atl ="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img align="center" atl ="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+ </div>
+
+
 
 <br><br>
 
@@ -79,8 +94,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdouglassouza&layout=compact&theme=dark" alt="Top Langs">
 
-
 <br><br>
+
 ## Contact
 
 <p align="left" style="background:yellow">
