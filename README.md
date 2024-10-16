@@ -20,8 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🚀 Dev Back-End :hourglass_flowing_sand:
 - 🔭 Atualmente trabalhando na Sendas Imob S.A e estudando na Alura e DIO
-- :computer: Realizei recentemente um Bootcamp Backend com Java - DIO com parceria da Santander Open Academy e Santander Faculdades
--  :computer: Estou realizando um Bootcamp de Java com Spring Boot - DIO em parceria com a Claro
+- :computer: Realizei recentemente o Bootcamp Backend com Java - DIO com parceria da Santander Open Academy e Santander Faculdades
+- :computer: Realizei recentemente o Bootcamp de Java com Spring Boot - DIO em parceria com a Claro
+- :computer: Realizando no momento o Bootcamp GFT Start #6 - Lógica de Programação - DIO em parceria com a GFT Technologies
 - 💬 Foco em Desenvolvimento de Softwares - Desktop
 - 🌱 Atualmente estou aprendendo e/ou já agredo em meu portfólio... :arrow_heading_down:
 
