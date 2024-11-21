@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 - 🔭 Atualmente trabalhando na Sendas Imob S.A e estudando na Alura e DIO
 - :computer: Realizei recentemente o Bootcamp Backend com Java - DIO com parceria da Santander Open Academy e Santander Faculdades
 - :computer: Realizei recentemente o Bootcamp de Java com Spring Boot - DIO em parceria com a Claro
-- :computer: Realizando no momento o Bootcamp GFT Start #6 - Lógica de Programação - DIO em parceria com a GFT Technologies
+- :computer: Bootcamp GFT Start #6 - Lógica de Programação - DIO em parceria com a GFT Technologies - <img align="center" atl ="pause" src="https://github.com/user-attachments/assets/7421d457-7f9f-4606-b3e6-3e2e1c44d490"/>
 - 💬 Foco em Desenvolvimento de Softwares - Desktop
 - 🌱 Atualmente estou aprendendo e/ou já agredo em meu portfólio... :arrow_heading_down:
 
@@ -40,6 +40,8 @@ You can click the Preview link to take a look at your changes.
 ### Framework e Ferramentas
 <div style="display: inline_block">
   <img align="center" atl ="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img align="center" atl ="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img align="center" atl ="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img align="center" atl ="spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img align="center" atl ="mongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img align="center" atl ="postgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
