@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 - :computer: Realizei recentemente o Bootcamp de Java com Spring Boot - DIO em parceria com a Claro
 - :computer: Bootcamp GFT Start #6 - Lógica de Programação - DIO em parceria com a GFT Technologies - <img align="center" atl ="pause" src="https://github.com/user-attachments/assets/7421d457-7f9f-4606-b3e6-3e2e1c44d490"/>
 - 💬 Foco em Desenvolvimento de Softwares - Desktop
-- 🌱 Atualmente estou aprendendo e/ou já agredo em meu portfólio... :arrow_heading_down:
+
 
 <br>
 
@@ -101,11 +101,5 @@ You can click the Preview link to take a look at your changes.
 
 ## Contact
 
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/douglasnsouza/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-douglasnsouza-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/douglas.nsouza" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-douglas.nsouza-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
+<a href="https://www.linkedin.com/in/douglasnsouza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/douglas.nsouza"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
